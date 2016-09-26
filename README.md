@@ -1,4 +1,4 @@
-“#wx”> > README.md回响
+“#wx”> >master/test.md
 git init
 git添加README.md
 git commit - m“第一次提交”
